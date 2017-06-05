@@ -1,0 +1,12 @@
+ Volume in drive C is Windows7_OS
+ Volume Serial Number is FE21-2CF0
+
+ Directory of C:\Users\yaird\Desktop\JavaProject
+
+06/05/2017  11:39 AM    <DIR>          .
+06/05/2017  11:39 AM    <DIR>          ..
+06/05/2017  10:53 AM             1,009 Exercise11.class
+03/15/2017  10:33 AM               908 Exercise11.java
+06/05/2017  11:39 AM                 0 test1.txt
+               3 File(s)          1,917 bytes
+               2 Dir(s)  71,007,612,928 bytes free
